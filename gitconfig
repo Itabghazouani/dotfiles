@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = itab.ghazouani@gmail.com
+	name = Itab Ghazouani
