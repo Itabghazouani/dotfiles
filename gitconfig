@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api ..
+	email = itab.ghazouani@gmail.com
 	name = Itab Ghazouani
